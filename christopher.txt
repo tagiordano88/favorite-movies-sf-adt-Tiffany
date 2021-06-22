@@ -1,6 +1,2 @@
 Employee of the Month
-<<<<<<< HEAD
 The Other Guys
-=======
-The Other Guys
->>>>>>> christophers-list
